@@ -29,8 +29,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Front-End.
 - 💬 If I can be of assistance, please do not hesitate to contact me. <a href="https://www.instagram.com/in.__ho/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Kim-Haul)
 
+[![Kim-Haul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Haul)](https://github.com/Kim-Haul/github-readme-stats)
+<!--
+![trophy](https://github-profile-trophy.vercel.app/?username=Kim-Haul)
+-->
 
 
 

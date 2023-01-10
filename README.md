@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   
 <br/><br/>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kim-Haul&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kim-Haul&row=1&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/><br/>
   

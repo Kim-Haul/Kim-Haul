@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp -->
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> &nbsp
 <!--   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=Vue.js&logoColor=white"/> &nbsp -->
-</p> <br/>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"> &nbsp
-</p> <br/>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAws&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"> &nbsp

@@ -30,7 +30,10 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"> &nbsp
-    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"> &nbsp 
   <img src="https://img.shields.io/badge/Amazon ECS-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"> &nbsp
 </p> <br/><br/>
 

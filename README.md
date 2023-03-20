@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> &nbsp
+  <!--   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> &nbsp -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAws&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"> &nbsp
   <!--   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp -->
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 </a>
   
 <a href="https://github.com/Kim-Haul">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Haul&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Haul&langs_count=6&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=radical" />
 </a>
   
 <br/><br/>

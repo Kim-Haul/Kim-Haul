@@ -46,19 +46,19 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Kim-Haul&show_icons=true&theme=radical" width="50%" />
-</a>
+</a> -->
   
-<a href="https://github.com/Kim-Haul">
+<!-- <a href="https://github.com/Kim-Haul">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Haul&langs_count=6&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=radical" />
-</a>
+</a> -->
   
 <br/><br/>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kim-Haul&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Kim-Haul&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<br/><br/>
+<!-- <br/><br/> -->
   
 ![snake gif](https://github.com/Kim-Haul/Kim-Haul/blob/output/github-contribution-grid-snake.svg)
 

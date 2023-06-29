@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Amazon ECS-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"> &nbsp
 </p> <br/><br/>
 
-- 📌 https://amazon-inno.netlify.app/
+<!-- - 📌 https://amazon-inno.netlify.app/ -->
 - 🌱 Front Developer (React)
 - 💬 If I can be of assistance, please do not hesitate to contact me. <a href="https://www.instagram.com/in.__ho/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
 

@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 <!-- <br/><br/> -->
   
-![snake gif](https://github.com/Kim-Haul/Kim-Haul/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Kim-Haul/Kim-Haul/24e727993ac313f461c08e90f5bd5cfd6fbb8b87/resources/github-contribution-grid-snake-light.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 

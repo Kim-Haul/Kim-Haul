@@ -1,45 +1,33 @@
-# 커밋 먹는 뱀 그래프 생성을 위한 GitHub Action🐍
+name: Snake
 
-name: Generate Snake
-
-# Action이 언제 구동될지 결정
+permissions:
+  contents: write
 
 on:
-  schedule:
-    # 6시간마다 한 번(수정 가능)
-    - cron: '0 */6 * * *'
-
-  # 자동으로 Action이 실행되도록 함
   workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *"
 
 jobs:
-  build:
+  GenerateSnake:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v3
 
-      # 뱀 생성
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: Kim-Haul
-          # output branch에 gif, svg를 각각 생성
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - run: git status
-
-      # 변경사항 push
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GH_TOKEN }}
-          branch: master
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Generate Snake
+        uses: Platane/snk@v3
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            resources/github-contribution-grid-snake-light.svg
+            resources/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push Snake
+        uses: EndBug/add-and-commit@v7.2.1
+        with:
+          branch: master
+          message: ":snake: Snake is eating github contributions..."

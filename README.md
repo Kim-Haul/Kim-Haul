@@ -36,6 +36,8 @@
 <br/>
 
 <div align="center">
+
+  ![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=facemate7)
   
   ![snake gif](https://raw.githubusercontent.com/Kim-Haul/Kim-Haul/24e727993ac313f461c08e90f5bd5cfd6fbb8b87/resources/github-contribution-grid-snake-light.svg)
 

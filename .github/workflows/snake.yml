@@ -26,8 +26,8 @@ jobs:
             resources/github-contribution-grid-snake-light.svg
             resources/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake
-        uses: EndBug/add-and-commit@v7.2.1
-        with:
-          branch: master
-          message: ":snake: Snake is eating github contributions..."
+      # - name: Push Snake
+      #   uses: EndBug/add-and-commit@v7.2.1
+      #   with:
+      #     branch: master
+      #     message: ":snake: Snake is eating github contributions..."

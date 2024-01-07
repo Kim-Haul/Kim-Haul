@@ -28,7 +28,7 @@
 <br/>
 
 <pre align="center">
-  - 🌱 Front Developer (React)
+  - 🌱 Not only Front Developer (React, Next.js) but also studying Backend (Spring Boot).
   - 💬 If I can be of assistance, please do not hesitate to contact me. <a href="https://www.instagram.com/in.__ho/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
 </pre>
 
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-  ![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=facemate7)
+<!--  ![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=facemate7) -->
   
   ![snake gif](https://github.com/Kim-Haul/Kim-Haul/blob/master/resources/github-contribution-grid-snake-light.svg)
 
